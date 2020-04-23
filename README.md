@@ -10,4 +10,4 @@ https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat
 https://integrations.us-south.assistant.watson.cloud.ibm.com/web/developer-documentation/tutorials-carbon-themes
 
 ## Live Demo:
-https://whats-up-watson.github.io/WikiBot/.
+https://omarfarid.github.io/Wikibotportal/
